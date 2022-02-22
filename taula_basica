@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Títol de la pàgina</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<table border="1">
+  <tr>
+    <td>Xina</td><td>1300 mil·lions</td>
+  </tr>
+  <tr>
+    <td>India</td><td>1080 mil·lions</td>
+  </tr>
+  <tr>
+    <td>EEUU</td><td>295 mil·lions</td>
+  </tr>
+</table>
+</body>
+</html>
