@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Títol de la pàgina</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+PHP<br>
+JavaScript<br>
+Java<br>
+C<br>
+C++
+</body>
+</html>
